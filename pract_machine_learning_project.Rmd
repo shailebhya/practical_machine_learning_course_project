@@ -65,7 +65,7 @@ From the above it is clear that there are not that much bias in the data in term
 The data has 160 columns and for training data 15699 rows. Data was collected with the help of 4 sensors, shown in the below diagram ([diagram source](http://groupware.les.inf.puc-rio.br/har#weight_lifting_exercises)).  
 
 ```{r out.width = "50%", fig.align = "center", echo=FALSE}
-include_graphics("dig.png")
+include_graphics("pic.png")
 ```
 
 Few Key points about the columns:  
